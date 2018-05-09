@@ -1,0 +1,34 @@
+h1 {
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: horizontalcenter;
+  background-image: url("../../resources/images/pattern.jpeg");
+}
+.brushes h2{
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.frames h2{
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+.paint h2{
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+#brush-price, #frame-price, #tube-price{
+  font-family: helvetica;
+  font-weight: bold;
+  color: blue;
+}
